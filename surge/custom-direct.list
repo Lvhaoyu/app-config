@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,huanleguang.com,DIRECT
 DOMAIN-SUFFIX,1password.com,DIRECT
 DOMAIN-SUFFIX,typora.io,DIRECT
 DOMAIN-SUFFIX,1passwordservices.com,DIRECT
+DOMAIN,steamcdn-a.akamaihd.net,DIRECT
+DOMAIN-SUFFIX,steamserver.net,DIRECT
